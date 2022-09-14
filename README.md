@@ -13,7 +13,7 @@ Feel free to report typographical errors or poor wording.
 We are most interested in improving the quality of the test suites.
 You can greatly help us improve the quality of the exercises by filing reports of invalid solutions that pass tests or of valid solutions that fail tests.
 
-## Development setup abc
+## Development setup abcadd
 
 Beyond filing issues, if you would like to contribute directly to the Go code in the Exercism Go track, you should follow some standard Go development practices.
 You should have a [recent version of Go](http://golang.org/doc/install) installed, ideally either the current release, the previous release, or tip.
